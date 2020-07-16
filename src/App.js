@@ -36,7 +36,7 @@ export default class App extends Component {
         </div>
 
         <div className="tagline">
-          a website built on serverless components via the serverless framework.
+          a website built on serverless components via the serverless framework!
         </div>
 
         <div className="buttonContainer">
