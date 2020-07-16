@@ -1,4 +1,4 @@
-# Serverless website component React example 
+# Serverless website component example 
 
 Based on: https://github.com/serverless-components/website
 
