@@ -1,0 +1,11 @@
+component: website
+name: company-landing-page
+stage: dev
+
+inputs:  
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./dist    
+  region: eu-central-1  
+  domain: ${stage}.oltrix.com
